@@ -1,4 +1,4 @@
-- Deep learning framework (accelerated by GPU)
+- Deep learning framework (accelerated by GPU - cuda)
 - Access pre-built deep learning models
 - Use cases - computer vision, classification,speech recognitions
 - Widely used
