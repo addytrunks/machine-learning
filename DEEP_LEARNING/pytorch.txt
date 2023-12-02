@@ -2,3 +2,8 @@
 - Access pre-built deep learning models
 - Use cases - computer vision, classification,speech recognitions
 - Widely used
+- Open source
+- Developed by Facebook
+- Written in Python
+- Supports Linux, Windows, MacOS, Android, iOS
+- Supports CUDA, cuDNN 
