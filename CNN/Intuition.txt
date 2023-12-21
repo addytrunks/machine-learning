@@ -1,0 +1,13 @@
+Plan of Attack:
+	Step 1: Convolution Neural Networks
+		Step 1(b): ReLU Layer
+	Step 2: Pooling
+	Step 3: Flattening
+	Step 4: Full Connection
+Softmax and Cross-Entropy
+
+WHAT ARE CONVOLUTIONAL NEURAL NETWORKS?
+
+You pass an image to a CNN, it gives the output (image label class)
+Eg:
+	Smiley Face (Image) ---> CNN (Processing) ---> Happy (Output)
