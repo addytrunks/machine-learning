@@ -3,3 +3,4 @@
 /DEEP_LEARNING/data/pizza_steak_sushi
 venv
 rnn_venv
+lstm_gru_venv
